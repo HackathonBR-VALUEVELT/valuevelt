@@ -14,9 +14,8 @@ Empresas inovadoras surgiram, disseminando conhecimento sobre investimentos e de
 Grandes bancos, que antes tinham total monopólio sobre o excesso de capital do brasileiro, precisam agora se adaptar à nova realidade.
 
 ## 💡 Solução
-Um dos principais pilares analisados pelos investidores ao avaliar um investimento é sobre conhecer as pessoas e a equipe por traz do negócio.
-Criamos o VALUEVELT, plataforma que utiliza neste primeiro momento o Linkedin, para resgatar todos os perfis da empresa e realizar um score.
-Com visão por área de conhecimento, tempo de empresa, experiências, formação, tudo de uma forma prática e trazendo insigths para um aprofundamento.
+Um dos principais pilares analisados pelos investidores ao avaliar um investimento é as pessoas e a equipe por traz do negócio.
+A solução utiliza, neste primeiro momento, a plataforma Linkedin, para resgatar todos os perfis da empresa e realizar um score (pontuação). Com visão por área de conhecimento, tempo de empresa, experiências, formação, tudo de uma forma prática e trazendo insigths para um aprofundamento e comparativo entre outras empresas e eficácia nos resultados.
 
 ## ⚙ Funcionalidades
 - Histórico do score dos perfis da empresa
@@ -33,12 +32,13 @@ Com visão por área de conhecimento, tempo de empresa, experiências, formaçã
 
 ## 🗺 Roadmap
 - Análise de Soft Skills
+- Utitlização do Watson da IBM para o aprendizado de máquina e reconhecimento de sentimentos.
 - Escolha dos tipos de cursos, experiências, grupos e voluntariados realizados
 - Aprofundamento de interesses
 
  ## 💪 Dreamteam
   - Daniel Leite (Designer)  [LinkedIn](https://www.linkedin.com/in/daniel-rodrigo-leite/) . [Behance](https://www.behance.net/danielrodrigo)
-  - Léo Moraes (Marketing) [LinkedIn](https://www.linkedin.com/in/leohmoraes/)
-  - Pettersom Firmino (Dev) [GitHub](https://github.com/hahuma)
-  - Thainá Monteiro (Business) [Linkedin](https://www.linkedin.com/in/thaina-monteiro/)
+  - Léo Moraes (Marketing) [LinkedIn](https://www.linkedin.com/in/leohmoraes/) [GitHub](https://github.com/leohmoraes)
+  - Pettersom Firmino (Dev) [GitHub](https://github.com/hahuma). [LinkedIn](https://www.linkedin.com/in/petterson-firmino-28a229198/)
+  - Thainá Monteiro (Business) [Linkedin](https://www.linkedin.com/in/thaina-monteiro/) [GitHub](https://github.com/hahuma)
   - Vinícius Passos (Dev) [LinkedIn](https://www.linkedin.com/in/vtpa/) . [GitHub](https://github.com/vtpa)
