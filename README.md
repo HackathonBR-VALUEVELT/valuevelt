@@ -1,7 +1,7 @@
 <center>
   <img src="assets/banner.jpg" alt="VALUEVELT">
   <h1>VALUEVELT</h1>
-  <em>Identifique, decida. ValueVelt te ajuda. As pessoas no centro da informação.</em>
+  <em>Investindo em pessoas</em>
 </center>
 
 ##  🏔 O Desafio - MegaHack 5.0
