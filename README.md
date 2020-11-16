@@ -38,7 +38,7 @@ A solução utiliza, neste primeiro momento, a plataforma Linkedin, para resgata
 
  ## 💪 Dreamteam
   - Daniel Leite (Designer)  [LinkedIn](https://www.linkedin.com/in/daniel-rodrigo-leite/) . [Behance](https://www.behance.net/danielrodrigo)
-  - Léo Moraes (Marketing) [LinkedIn](https://www.linkedin.com/in/leohmoraes/) [GitHub](https://github.com/leohmoraes)
-  - Pettersom Firmino (Dev) [GitHub](https://github.com/hahuma). [LinkedIn](https://www.linkedin.com/in/petterson-firmino-28a229198/)
-  - Thainá Monteiro (Business) [Linkedin](https://www.linkedin.com/in/thaina-monteiro/) [GitHub](https://github.com/hahuma)
+  - Léo Moraes (Marketing) [LinkedIn](https://www.linkedin.com/in/leohmoraes/) . [GitHub](https://github.com/leohmoraes)
+  - Pettersom Firmino (Dev) [GitHub](https://github.com/hahuma) . [LinkedIn](https://www.linkedin.com/in/petterson-firmino-28a229198/)
+  - Thainá Monteiro (Business) [Linkedin](https://www.linkedin.com/in/thaina-monteiro/) . [GitHub](https://github.com/thainamonteiro)
   - Vinícius Passos (Dev) [LinkedIn](https://www.linkedin.com/in/vtpa/) . [GitHub](https://github.com/vtpa)
